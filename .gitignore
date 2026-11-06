@@ -1,0 +1,22 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+.idea/
+.kotlin/
+
+# Chaves de assinatura
+*.jks
+*.keystore
+
+# APK antigo corrompido (só o PokeCalcRB.apk vai para o repositório)
+PokeCalcRB-debug*.apk
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
