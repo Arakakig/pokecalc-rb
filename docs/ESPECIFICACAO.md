@@ -8,7 +8,7 @@
 | 2 | _[preencher]_ |
 | 3 | _[preencher]_ |
 
-Repositório/pasta do projeto: _[link do Drive ou GitHub]_ — compartilhado com matheus.albuquerque@ufms.br
+Repositório/pasta do projeto: https://github.com/Arakakig/pokecalc-rb — compartilhado com matheus.albuquerque@ufms.br
 
 ## 2. Visão geral do software
 
